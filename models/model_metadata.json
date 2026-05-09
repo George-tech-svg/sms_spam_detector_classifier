@@ -1,0 +1,10 @@
+{
+    "model_name": "SVM",
+    "accuracy": 97.9372197309417,
+    "precision": 97.01492537313433,
+    "recall": 87.24832214765101,
+    "f1_score": 91.87279151943463,
+    "training_date": "2026-05-09 07:45:51",
+    "features_count": 5000,
+    "samples_trained": 4457
+}
